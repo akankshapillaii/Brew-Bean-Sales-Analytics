@@ -29,7 +29,6 @@ The analysis covers **1,000 sales records** across **913 unique customers**, thr
 - [Loyalty Analysis](https://github.com/akankshapillaii/Brew-Bean-Sales-Analytics/tree/main#loyalty-analysis)
 - [Key Business Findings](https://github.com/akankshapillaii/Brew-Bean-Sales-Analytics/tree/main#key-business-findings)
 - [Recommendations](https://github.com/akankshapillaii/Brew-Bean-Sales-Analytics/tree/main#recommendations)
-- [Analytical Approach](https://github.com/akankshapillaii/Brew-Bean-Sales-Analytics/tree/main#analytical-approach)
 
 ---
 
@@ -131,7 +130,7 @@ Sales were relatively balanced across the four coffee types, although **Excelsa 
 | Robusta | $9,006 |
 
 <p align="center">
-  <img src="images/product-performance.png" alt="Coffee Product Performance" width="480">
+  <img src="Graphs-Preview/Product-Performance.png" alt="Coffee Product Performance">
 </p>
 
 ### Finding
@@ -250,26 +249,3 @@ Analyze repeat non-loyalty customers and test targeted incentives that encourage
 - **Monitor smaller markets**
 
 Evaluate Ireland and the United Kingdom separately to understand which products and customer segments could support further market growth.
-
----
-
-# Analytical Approach
-
-```text
-Raw Transaction Data
-        ↓
-Data Cleaning
-        ↓
-Data Consolidation
-        ↓
-Data Transformation
-        ↓
-Pivot Table Analysis
-        ↓
-Trend & Segment Analysis
-        ↓
-Interactive Dashboard
-        ↓
-Business Findings
-        ↓
-Recommendations
