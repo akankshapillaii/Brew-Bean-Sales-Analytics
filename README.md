@@ -108,7 +108,7 @@ Sales are concentrated across three markets, with the **United States accounting
 | 🇬🇧 United Kingdom | $2,799 | 6.2% |
 
 <p align="center">
-  <img src="images/sales-by-country.png" alt="Sales by Country" width="800">
+  <img src="Graphs-Preview/Sales-by-Country.png" alt="Sales by Country" width="480">
 </p>
 
 ### Finding
@@ -131,7 +131,7 @@ Sales were relatively balanced across the four coffee types, although **Excelsa 
 | Robusta | $9,006 |
 
 <p align="center">
-  <img src="images/product-performance.png" alt="Coffee Product Performance" width="850">
+  <img src="images/product-performance.png" alt="Coffee Product Performance" width="480">
 </p>
 
 ### Finding
@@ -175,7 +175,7 @@ Customer-level analysis was used to identify the highest-value customers based o
 | Don Flintiff | $278.01 |
 
 <p align="center">
-  <img src="images/top-customers.png" alt="Top Customers" width="800">
+  <img src="Graphs-Preview/Customer-Analysis.png" alt="Top Customers" width="480">
 </p>
 
 ### Finding
@@ -203,46 +203,51 @@ However, non-loyalty customers still generated a slightly larger share of revenu
 
 # Key Business Findings
 
-### 01 — Revenue is highly concentrated
+- **Revenue is highly concentrated:**
+
 The **United States contributes 78.9% of total sales**, making it the dominant market.
 
-### 02 — Product demand is relatively balanced
+- **Product demand is relatively balanced:**
+
 Excelsa leads coffee-type sales, but the gap between Excelsa, Liberica, and Arabica is relatively small.
 
-### 03 — Larger purchases drive sales
+- **Larger purchases drive sales**
+
 The **Large segment contributes $17.4K**, the highest among the analyzed roast/size segments.
 
-### 04 — High-value customers can be identified
+- **High-value customers can be identified**
+
 The top five customers generated approximately **$1.47K**, providing a defined segment for targeted retention.
 
-### 05 — Loyalty adoption has room to grow
+- **Loyalty adoption has room to grow**
+
 Loyalty-card customers contribute **46.9% of sales**, while non-loyalty customers still account for the larger share.
 
 ---
 
 # Recommendations
 
-### Strengthen the core market
+- **Strengthen the core market**
 
 Continue monitoring the United States market closely and identify the products, customer segments, and purchasing patterns driving its strong performance.
 
-### Build on high-performing products
+- **Build on high-performing products**
 
 Maintain strong availability of **Excelsa, Liberica, and Arabica**, while investigating whether Robusta's lower sales are related to demand, pricing, or product positioning.
 
-### Encourage larger purchases
+- **Encourage larger purchases**
 
 Explore bundles, subscriptions, or promotional offers around larger formats given the strong sales contribution from the Large segment.
 
-### Develop customer retention strategies
+- **Develop customer retention strategies**
 
 Create targeted offers for high-value customers and monitor their purchase frequency and lifetime value over time.
 
-### Increase loyalty adoption
+- **Increase loyalty adoption**
 
 Analyze repeat non-loyalty customers and test targeted incentives that encourage them to join the loyalty program.
 
-### Monitor smaller markets
+- **Monitor smaller markets**
 
 Evaluate Ireland and the United Kingdom separately to understand which products and customer segments could support further market growth.
 
