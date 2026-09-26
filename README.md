@@ -10,11 +10,26 @@
 
 ## 📌 Executive Overview
 
-Brew & Bean Café's sales data was analyzed to understand **what is driving revenue, where sales are concentrated, which products perform best, and how customers contribute to overall sales**.
+Brew & Bean Café's sales data was analyzed to understand what is driving revenue, where sales are concentrated, which products perform best, and how customers contribute to overall sales.
 
 The analysis covers **1,000 sales records** across **913 unique customers**, three markets, four coffee types, and multiple roast/size segments.
 
-The findings provide management with a clearer view of current sales performance and highlight areas for product, customer, and market-level action.
+---
+
+## Table of Contents
+
+- Executive Overview
+- Dashboard
+- Business Questions
+- Data Overview
+- Sales Performance
+- Market Performance
+- Product Performance
+- Customer Analysis
+- Loyalty Analysis
+- Key Business Findings
+- Recommendations
+- Analytical Approach
 
 ---
 
