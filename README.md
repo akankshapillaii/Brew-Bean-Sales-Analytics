@@ -18,7 +18,6 @@ The analysis covers **1,000 sales records** across **913 unique customers**, thr
 
 ## Table of Contents
 
-- Executive Overview
 - Dashboard
 - Business Questions
 - Data Overview
