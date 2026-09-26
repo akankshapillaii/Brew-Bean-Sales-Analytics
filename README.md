@@ -18,17 +18,18 @@ The analysis covers **1,000 sales records** across **913 unique customers**, thr
 
 ## Table of Contents
 
-- Dashboard
-- Business Questions
-- Data Overview
-- Sales Performance
-- Market Performance
-- Product Performance
-- Customer Analysis
-- Loyalty Analysis
-- Key Business Findings
-- Recommendations
-- Analytical Approach
+- [Dashboard](https://github.com/akankshapillaii/Brew-Bean-Sales-Analytics/tree/main#dashboard)
+- [Business Questions](https://github.com/akankshapillaii/Brew-Bean-Sales-Analytics/tree/main#business-questions)
+- [Data Overview](https://github.com/akankshapillaii/Brew-Bean-Sales-Analytics/tree/main#data-overview)
+- [Sales Performance](https://github.com/akankshapillaii/Brew-Bean-Sales-Analytics/tree/main#sales-performance)
+- [Market Performance](https://github.com/akankshapillaii/Brew-Bean-Sales-Analytics/tree/main#market-performance)
+- [Product Performance](https://github.com/akankshapillaii/Brew-Bean-Sales-Analytics/tree/main#product-performance)
+- [Roast / Size Performance](https://github.com/akankshapillaii/Brew-Bean-Sales-Analytics/tree/main#roast--size-performance)
+- [Customer Analysis](https://github.com/akankshapillaii/Brew-Bean-Sales-Analytics/tree/main#customer-analysis)
+- [Loyalty Analysis](https://github.com/akankshapillaii/Brew-Bean-Sales-Analytics/tree/main#loyalty-analysis)
+- [Key Business Findings](https://github.com/akankshapillaii/Brew-Bean-Sales-Analytics/tree/main#key-business-findings)
+- [Recommendations](https://github.com/akankshapillaii/Brew-Bean-Sales-Analytics/tree/main#recommendations)
+- [Analytical Approach](https://github.com/akankshapillaii/Brew-Bean-Sales-Analytics/tree/main#analytical-approach)
 
 ---
 
@@ -87,7 +88,7 @@ Brew & Bean Café generated **$45,135 in sales** across the analyzed transaction
 Sales peaked in **2021 at $13.8K**, before declining in 2022 within the available dataset period.
 
 <p align="center">
-  <img src="images/sales-trend.png" alt="Annual Sales Trend" width="850">
+  <img src="Graphs-Preview/Sales-Trend-Over-Time.png" alt="Annual Sales Trend" width="850">
 </p>
 
 ### Finding
