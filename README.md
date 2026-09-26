@@ -18,17 +18,17 @@ The findings provide management with a clearer view of current sales performance
 
 ---
 
-## 📊 Management Dashboard
+## Dashboard
 
 <p align="center">
-  <img src="images/coffee-sales-dashboard.png" alt="Brew & Bean Café Sales Dashboard" width="900">
+  <img src="Dashboard.png">
 </p>
 
 The dashboard consolidates key sales and customer metrics into a single view, allowing management to monitor performance across **time, market, product, and customer segments**.
 
 ---
 
-## 🎯 Business Questions
+## Business Questions
 
 The analysis focuses on five key questions:
 
@@ -40,7 +40,7 @@ The analysis focuses on five key questions:
 
 ---
 
-## 📂 Data Overview
+## Data Overview
 
 The analysis combines three core datasets:
 
@@ -57,7 +57,7 @@ The analysis combines three core datasets:
 
 ---
 
-# 🔎 Sales Performance
+# Sales Performance
 
 Brew & Bean Café generated **$45,135 in sales** across the analyzed transactions.
 
@@ -82,7 +82,7 @@ Sales peaked in **2021 at $13.8K**, before declining in 2022 within the availabl
 
 ---
 
-# 🌍 Market Performance
+# Market Performance
 
 Sales are concentrated across three markets, with the **United States accounting for the majority of revenue**.
 
@@ -104,7 +104,7 @@ This concentration creates a strong existing revenue base while also highlightin
 
 ---
 
-# ☕ Product Performance
+# Product Performance
 
 Sales were relatively balanced across the four coffee types, although **Excelsa generated the highest revenue**.
 
@@ -127,7 +127,7 @@ Robusta recorded the lowest sales among the four coffee types, contributing appr
 
 ---
 
-# 📦 Roast / Size Performance
+# Roast / Size Performance
 
 Sales by roast/size segment show a clear difference in contribution:
 
@@ -145,7 +145,7 @@ This suggests that larger-format purchases represent an important part of Brew &
 
 ---
 
-# 👥 Customer Analysis
+# Customer Analysis
 
 Customer-level analysis was used to identify the highest-value customers based on total sales.
 
@@ -171,7 +171,7 @@ These customers represent a useful segment for retention and personalized engage
 
 ---
 
-# 🎫 Loyalty Analysis
+# Loyalty Analysis
 
 | Customer Segment | Sales | Share |
 |---|---:|---:|
@@ -186,7 +186,7 @@ However, non-loyalty customers still generated a slightly larger share of revenu
 
 ---
 
-# 💡 Key Business Findings
+# Key Business Findings
 
 ### 01 — Revenue is highly concentrated
 The **United States contributes 78.9% of total sales**, making it the dominant market.
@@ -205,7 +205,7 @@ Loyalty-card customers contribute **46.9% of sales**, while non-loyalty customer
 
 ---
 
-# 🎯 Recommendations
+# Recommendations
 
 ### Strengthen the core market
 
@@ -233,7 +233,7 @@ Evaluate Ireland and the United Kingdom separately to understand which products 
 
 ---
 
-# 🛠️ Analytical Approach
+# Analytical Approach
 
 ```text
 Raw Transaction Data
