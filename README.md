@@ -210,15 +210,15 @@ The **United States contributes 78.9% of total sales**, making it the dominant m
 
 Excelsa leads coffee-type sales, but the gap between Excelsa, Liberica, and Arabica is relatively small.
 
-- **Larger purchases drive sales**
+- **Larger purchases drive sales:**
 
 The **Large segment contributes $17.4K**, the highest among the analyzed roast/size segments.
 
-- **High-value customers can be identified**
+- **High-value customers can be identified:**
 
 The top five customers generated approximately **$1.47K**, providing a defined segment for targeted retention.
 
-- **Loyalty adoption has room to grow**
+- **Loyalty adoption has room to grow:**
 
 Loyalty-card customers contribute **46.9% of sales**, while non-loyalty customers still account for the larger share.
 
