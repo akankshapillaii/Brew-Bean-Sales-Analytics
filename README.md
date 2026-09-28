@@ -1,4 +1,4 @@
-# ☕ Brew & Bean Café | Sales & Customer Analytics
+# <h1><img src="Preview/Logo.png" height="32"> Brew & Bean Café | Sales & Customer Analytics</h1>
 
 > **A data-driven analysis of sales performance, product demand, customer behavior, and market contribution to identify opportunities for Brew & Bean Café.**
 
@@ -35,7 +35,7 @@ The analysis covers **1,000 sales records** across **913 unique customers**, thr
 ## Dashboard
 
 <p align="center">
-  <img src="Dashboard.png">
+  <img src="Preview/Dashboard.png">
 </p>
 
 The dashboard consolidates key sales and customer metrics into a single view, allowing management to monitor performance across **time, market, product, and customer segments**.
