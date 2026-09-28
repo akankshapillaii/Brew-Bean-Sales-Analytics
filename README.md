@@ -87,7 +87,7 @@ Brew & Bean Café generated **$45,135 in sales** across the analyzed transaction
 Sales peaked in **2021 at $13.8K**, before declining in 2022 within the available dataset period.
 
 <p align="center">
-  <img src="Graphs-Preview/Sales-Trend-Over-Time.png" alt="Annual Sales Trend" width="850">
+  <img src="Preview/Sales-Trend-Over-Time.png" alt="Annual Sales Trend" width="850">
 </p>
 
 ### Finding
@@ -107,7 +107,7 @@ Sales are concentrated across three markets, with the **United States accounting
 | 🇬🇧 United Kingdom | $2,799 | 6.2% |
 
 <p align="center">
-  <img src="Graphs-Preview/Sales-by-Country.png" alt="Sales by Country" width="480">
+  <img src="Preview/Sales-by-Country.png" alt="Sales by Country" width="480">
 </p>
 
 ### Finding
@@ -130,7 +130,7 @@ Sales were relatively balanced across the four coffee types, although **Excelsa 
 | Robusta | $9,006 |
 
 <p align="center">
-  <img src="Graphs-Preview/Product-Performance.png" alt="Coffee Product Performance">
+  <img src="Preview/Product-Performance.png" alt="Coffee Product Performance">
 </p>
 
 ### Finding
@@ -174,7 +174,7 @@ Customer-level analysis was used to identify the highest-value customers based o
 | Don Flintiff | $278.01 |
 
 <p align="center">
-  <img src="Graphs-Preview/Customer-Analysis.png" alt="Top Customers" width="480">
+  <img src="Preview/Customer-Analysis.png" alt="Top Customers" width="480">
 </p>
 
 ### Finding
